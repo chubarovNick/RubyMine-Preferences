@@ -1,0 +1,14 @@
+.idea
+componentVersions/*
+options/keymap.xml
+options/statistics.application.usages.xml
+options/window.manager.xml
+*.key
+tasks/*
+rubystubs/*
+options/webServers.xml
+*.swp
+.DS_Store
+*.zip
+options/databaseDrivers.xml
+jdbc-drivers/*

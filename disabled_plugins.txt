@@ -1,0 +1,2 @@
+IdeaVIM
+net.tweakers.intellij.thesaurus

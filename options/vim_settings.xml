@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="VimSettings">
+    <state version="2" enabled="true" keymap="Default for Mac OS X copy" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/a2access/features/filters.feature" timestamp="1369922623012">
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="[" line="36" column="21" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>Northeast</text>
+      </register>
+      <register name="3" type="4">
+        <text>Northeas</text>
+      </register>
+      <register name="2" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="1" type="4">
+        <text>Northeast</text>
+      </register>
+      <register name="5" type="4">
+        <text>No</text>
+      </register>
+      <register name="4" type="4">
+        <text>North</text>
+      </register>
+      <register name="-" type="4">
+        <text>Northeast</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>
+
