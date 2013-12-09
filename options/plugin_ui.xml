@@ -3,6 +3,7 @@
   <component name="PluginManagerConfigurable">
     <option name="AVAILABLE_SORT_COLUMN_ORDER" value="1" />
     <option name="AVAILABLE_SORT_MODE" value="1" />
+    <option name="INSTALLED_SORT_BY_STATUS" value="true" />
     <option name="proportions">
       <list>
         <option value="0.5" />

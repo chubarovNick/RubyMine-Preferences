@@ -78,36 +78,36 @@
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="skipFirstMatching" />
-          <item index="1" class="java.lang.String" itemvalue="activity" />
-          <item index="2" class="java.lang.String" itemvalue="boots" />
-          <item index="3" class="java.lang.String" itemvalue="bootstrap" />
-          <item index="4" class="java.lang.String" itemvalue="RegistrationService" />
-          <item index="5" class="java.lang.String" itemvalue="activity_att" />
-          <item index="6" class="java.lang.String" itemvalue="activity_attendees" />
-          <item index="7" class="java.lang.String" itemvalue="stars =" />
-          <item index="8" class="java.lang.String" itemvalue="stars:" />
-          <item index="9" class="java.lang.String" itemvalue="Simples" />
-          <item index="10" class="java.lang.String" itemvalue="HeaderS" />
-          <item index="11" class="java.lang.String" itemvalue="Confe" />
-          <item index="12" class="java.lang.String" itemvalue="Mon" />
-          <item index="13" class="java.lang.String" itemvalue="Date" />
-          <item index="14" class="java.lang.String" itemvalue="Default" />
-          <item index="15" class="java.lang.String" itemvalue="PercentPointTwo" />
-          <item index="16" class="java.lang.String" itemvalue="MoneyPointTwo" />
-          <item index="17" class="java.lang.String" itemvalue="last_column_letter" />
-          <item index="18" class="java.lang.String" itemvalue="all_votes_sum" />
-          <item index="19" class="java.lang.String" itemvalue="styleID" />
-          <item index="20" class="java.lang.String" itemvalue="ce1" />
-          <item index="21" class="java.lang.String" itemvalue="cell" />
-          <item index="22" class="java.lang.String" itemvalue="render" />
-          <item index="23" class="java.lang.String" itemvalue="cel" />
-          <item index="24" class="java.lang.String" itemvalue="rener" />
-          <item index="25" class="java.lang.String" itemvalue="root" />
-          <item index="26" class="java.lang.String" itemvalue="Expected" />
-          <item index="27" class="java.lang.String" itemvalue="ngxConfig" />
-          <item index="28" class="java.lang.String" itemvalue="deps" />
-          <item index="29" class="java.lang.String" itemvalue="photo.image.url" />
+          <item index="0" class="java.lang.String" itemvalue="activity_attendees" />
+          <item index="1" class="java.lang.String" itemvalue="stars =" />
+          <item index="2" class="java.lang.String" itemvalue="stars:" />
+          <item index="3" class="java.lang.String" itemvalue="Simples" />
+          <item index="4" class="java.lang.String" itemvalue="HeaderS" />
+          <item index="5" class="java.lang.String" itemvalue="Confe" />
+          <item index="6" class="java.lang.String" itemvalue="Mon" />
+          <item index="7" class="java.lang.String" itemvalue="Date" />
+          <item index="8" class="java.lang.String" itemvalue="Default" />
+          <item index="9" class="java.lang.String" itemvalue="PercentPointTwo" />
+          <item index="10" class="java.lang.String" itemvalue="MoneyPointTwo" />
+          <item index="11" class="java.lang.String" itemvalue="last_column_letter" />
+          <item index="12" class="java.lang.String" itemvalue="all_votes_sum" />
+          <item index="13" class="java.lang.String" itemvalue="styleID" />
+          <item index="14" class="java.lang.String" itemvalue="ce1" />
+          <item index="15" class="java.lang.String" itemvalue="cell" />
+          <item index="16" class="java.lang.String" itemvalue="render" />
+          <item index="17" class="java.lang.String" itemvalue="cel" />
+          <item index="18" class="java.lang.String" itemvalue="rener" />
+          <item index="19" class="java.lang.String" itemvalue="root" />
+          <item index="20" class="java.lang.String" itemvalue="Expected" />
+          <item index="21" class="java.lang.String" itemvalue="ngxConfig" />
+          <item index="22" class="java.lang.String" itemvalue="deps" />
+          <item index="23" class="java.lang.String" itemvalue="photo.image.url" />
+          <item index="24" class="java.lang.String" itemvalue="is_admin" />
+          <item index="25" class="java.lang.String" itemvalue="@user" />
+          <item index="26" class="java.lang.String" itemvalue="qua" />
+          <item index="27" class="java.lang.String" itemvalue="unic" />
+          <item index="28" class="java.lang.String" itemvalue="current_organization" />
+          <item index="29" class="java.lang.String" itemvalue="load_current_organization" />
         </list>
       </value>
     </option>
@@ -228,7 +228,6 @@
         <entry key="$USER_HOME$/projects/internal-ccg" value="" />
         <entry key="$USER_HOME$/projects/matras63" value="" />
         <entry key="$USER_HOME$/projects/matras63-demo" value="" />
-        <entry key="$USER_HOME$/projects/ruby/a2access" value="" />
         <entry key="$USER_HOME$/projects/ruby/matras63" value="" />
         <entry key="$USER_HOME$/projects/ruby/wedding_album" value="" />
         <entry key="$USER_HOME$/projects/social-blog" value="" />
@@ -239,6 +238,7 @@
         <entry key="$USER_HOME$/stv" value="" />
       </map>
     </option>
+    <option name="lastPath" value="$USER_HOME$/projects/ruby/a2access" />
   </component>
   <component name="RecentTaskRepositories">
     <PivotalTracker shared="false" url="http://www.pivotaltracker.com">
